@@ -86,6 +86,11 @@ Tecnologias utilizadas
 
 ---
 
+Para rodar use cd PetLover
+Em seguida npx expo start --tunnel
+
+---
+
 Estrutura do projeto
 
 ```text
